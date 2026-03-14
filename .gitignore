@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+data/
+models/
+captured_faces/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
